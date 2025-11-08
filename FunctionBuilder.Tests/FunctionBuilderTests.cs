@@ -1,8 +1,6 @@
 using FunctionBuilder.Logic;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 
 namespace FunctionBuilder.Tests
